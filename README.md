@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jwaOyMu8Z3X9LOjkpC/giphy.gif?cid=ecf05e47tqpbytn5pp93sh9g59tfl109frjsukow2opfw96c&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="100"/>
+</div>
 # Kata-Loore Tamm [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katalooretamm) 
 
 ## Studies:
