@@ -1,4 +1,4 @@
-# Kata-Loore Tamm [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/katalooretamm) 
+# Kata-Loore Tamm [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katalooretamm) 
 
 ## Studies:
 [Bachelor i IT og Information systems](https://www.uia.no/studier/program/it-og-informasjonssystemer-bachelor/), UiA Kristiansand
